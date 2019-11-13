@@ -1,3 +1,2 @@
 # Horion-Website
-lmfao cool site
-Mojang approves!
+lmfao cool site! Even Mojang approves.
